@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: space-between;
+}
+section {
+    width: 45%;
+}
+#toDo {
+    padding-left: 8%;
+    padding-top: 1%;
+    height: 50px;
+    width: 100%;
+    margin: 3%;
+    background-color: aliceblue;
+    font-size: large;
+}
+svg {
+    margin: 2%;
+}
